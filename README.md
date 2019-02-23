@@ -8,7 +8,7 @@
 
 [EN] [Impostor Syndrome and Individual Competence - Jessica Rose](https://youtu.be/0JyFHYzpX7g) at [ScotlandJS](http://scotlandjs.com/)
 
-[EN] [Burn bright but don't burn out - Patima Tantiprasut](https://youtu.be/Bys_QWm5rDE) at (JSConf EU)[https://2019.jsconf.eu/]
+[EN] [Burn bright but don't burn out - Patima Tantiprasut](https://youtu.be/Bys_QWm5rDE) at [JSConf EU](https://2019.jsconf.eu/)
 
 [EN] [Your brain doesn't have a fix flag – Sara Vieira](https://youtu.be/bovBQtB_PDo) at [AgentConf](https://www.agent.sh/)
 
